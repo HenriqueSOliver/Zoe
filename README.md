@@ -12,3 +12,4 @@ Técnologias:
 
 Bibliotecas:
     SpeechRecognition 3.8.1 > https://pypi.org/project/SpeechRecognition/
+    
