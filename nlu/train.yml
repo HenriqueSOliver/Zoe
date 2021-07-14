@@ -10,7 +10,6 @@ commands:
     input: Me diga as horas.
     entity: time
     action: getTime
-
   #Data
   - command:
     input: Qual é a data de hoje?
@@ -20,7 +19,6 @@ commands:
     input: Data de hoje.
     entity: time
     action: getDate
-
   #Previsão do Tempo
   - command:
     input: Previsão do tempo
@@ -30,7 +28,6 @@ commands:
     input: Como está o clima?
     entity: weather
     action: getWeather
-
   #Open
   - command:
     input: Abra google
