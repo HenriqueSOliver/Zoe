@@ -6,7 +6,7 @@ Foco:
     Expansível
 
 Técnologias:
-    Reconhecimento de voz: (Google para reconhecimento online, Vosk para reconhecimento offline) Síntese de voz: (pyttsx3) Algum de tipo IA: Commands, NLU (classificação de texto)
+    Reconhecimento de voz: (Google para reconhecimento online, Vosk para reconhecimento offline) Síntese de voz: (pyttsx3) Algum de tipo IA: Commands, NLU (classificação de textos)
 
 Bibliotecas:
     SpeechRecognition 3.9.9 > https://pypi.org/project/speech-recognition-python/
