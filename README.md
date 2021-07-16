@@ -13,4 +13,7 @@ Bibliotecas:
     Vosk 0.3.7 > https://alphacephei.com/vosk/models
     PyAudio 0.2.11 > py39 > https://www.lfd.uci.edu/~gohlke/pythonlibs/
     pyttsx3 2.9 > https://pypi.org/project/pyttsx3/
+    PyYAML 5.4.1 > https://pypi.org/project/PyYAML/
+    numpy 1.21.0 > https://pypi.org/project/numpy/
+
     
